@@ -9,14 +9,14 @@
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  Hi, I'm Abdel-Haleem, Computer Engineer & Software Developer from EGYPT
+  Hi, I'm Erick Tshimbombo Kazadi, I am Front-End Developer From Democratic Republic Of Congo
   <br>
   <br>
-  👨‍🎓 I'm currently studying for a Bachelor's degree in Mansoura University Computer Science and Control System Engineering Department (CCSED)
+  👨‍🎓 I'm currently Learning Backend Developement(NodeJS|| ExpressJS|| MongoDB and  I have a Btech in Computer Science and Web Application Developement From Tshwane University of Technology (South Africa)
   <br>
-  💻 I love Writing code, Hardware and learning anything about them 😊
+  💻 I love Writing code, and Building Porjects Everyday 😊
   <br>
-  📚 I’m currently focusing on Data Science 
+  📚 I’m currently focusing on ReactJS || NextJS || TailwaindCSS
   <br>
   📫 How to reach me 👇
 </p>
